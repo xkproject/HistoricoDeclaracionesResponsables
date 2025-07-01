@@ -1,2 +1,2 @@
-# HistoricoDeclaracionesResponsables
-Histórico de declaraciones responsables Software PCCOM
+# Historico de Declaraciones Responsables de Softwares PCCOM
+
