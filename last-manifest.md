@@ -8,7 +8,7 @@
 
 1.c) Identificador completo de la versión concreta del sistema informático a que se refiere esta declaración responsable:
 
-**3.1.2093.3307**
+**3.1.2094.3308**
 
 1.d) Componentes, hardware y software, de que consta el sistema informático a que se refiere esta declaración responsable, junto con una breve descripción de lo que hace dicho sistema informático y de sus principales funcionalidades:
 
@@ -52,7 +52,7 @@
 
 1.l) - Fecha en que la entidad productora de este sistema informático suscribe esta declaración responsable del mismo:
 
-**30 de diciembre de 2025**.
+**3 de enero de 2026**.
 
 \- Lugar en que la entidad productora de este sistema informático suscribe esta declaración responsable del mismo:
 
