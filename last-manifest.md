@@ -52,7 +52,7 @@
 
 1.l) - Fecha en que la entidad productora de este sistema informático suscribe esta declaración responsable del mismo:
 
-**2 de octubre de 2026**.
+**3 de octubre de 2026**.
 
 \- Lugar en que la entidad productora de este sistema informático suscribe esta declaración responsable del mismo:
 
